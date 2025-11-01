@@ -18,7 +18,7 @@
   <a href="mailto:shahzaib.dev001@gmail.com">
     <img src="https://img.shields.io/badge/Email-shahzaib.dev001%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=shahzaib-io&label=Profile%20Views&color=0A66C2&style=for-the-badge" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=shahzaib-io&color=blueviolet&style=for-the-badge" alt="Profile views"/>
 </p>
 
 ---
@@ -49,7 +49,7 @@ With 6+ years of experience in **React**, **Next.js**, **Laravel**, **WordPress*
 
 #### Platforms & CMS  
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 
 #### Database & Tools  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -63,26 +63,17 @@ With 6+ years of experience in **React**, **Next.js**, **Laravel**, **WordPress*
 
 | Project | Description |
 |----------|-------------|
-| 💼 [WordPress Ecommerce Website](https://mluva.prototypelink.com) | Custom WordPress Ecommerce with Elementor, Woocommerce and advanced performance optimization. |
+| 💼 [Ecommerce Website](https://mluva.prototypelink.com) | Custom WordPress Ecommerce with Elementor, Woocommerce and advanced performance optimization. |
 
 *(More projects coming soon — stay tuned!)*
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats  
 
-<p align="center">
-  <a href="https://github.com/shahzaib-io">
-    <img src="https://github-readme-stats.vercel.app/api?username=shahzaib-io&show_icons=true&theme=transparent&hide_border=true&title_color=007acc&text_color=333&icon_color=007acc" alt="GitHub Stats" height="160"/>
-  </a>
-  <a href="https://github.com/shahzaib-io">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaib-io&layout=compact&theme=transparent&hide_border=true&title_color=007acc&text_color=333" alt="Top Languages" height="160"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahzaib-io&theme=transparent&hide_border=true&ring=007acc&fire=007acc&currStreakLabel=007acc" alt="GitHub Streak"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahzaib-io&show_icons=true&theme=react&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaib-io&layout=compact&theme=react&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahzaib-io&theme=react&hide_border=true)
 
 ---
 
