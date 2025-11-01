@@ -69,12 +69,19 @@ With 6+ years of experience in **React**, **Next.js**, **Laravel**, **WordPress*
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahzaib-io&show_icons=true&theme=react" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaib-io&layout=compact&theme=react" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahzaib-io&theme=react" alt="GitHub Streak" />
+  <a href="https://github.com/shahzaib-io">
+    <img src="https://github-readme-stats.vercel.app/api?username=shahzaib-io&show_icons=true&theme=transparent&hide_border=true&title_color=007acc&text_color=333&icon_color=007acc" alt="GitHub Stats" height="160"/>
+  </a>
+  <a href="https://github.com/shahzaib-io">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaib-io&layout=compact&theme=transparent&hide_border=true&title_color=007acc&text_color=333" alt="Top Languages" height="160"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahzaib-io&theme=transparent&hide_border=true&ring=007acc&fire=007acc&currStreakLabel=007acc" alt="GitHub Streak"/>
 </p>
 
 ---
