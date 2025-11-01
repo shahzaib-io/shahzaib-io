@@ -82,7 +82,7 @@ With 6+ years of experience in **React**, **Next.js**, **Laravel**, **WordPress*
 ### 🤝 Connect  
 
 🌐 [Portfolio](https://shahzaibdev.vercel.app)  
-💼 [LinkedIn](https://www.linkedin.com/in/shahzaib-tabassum-70604811b)  
+💼 [LinkedIn](https://www.linkedin.com/in/muhammad-shahzaib-here)  
 📧 [Email Me](mailto:shahzaib.dev001@gmail.com)
 
 ---
