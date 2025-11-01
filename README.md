@@ -12,7 +12,7 @@
   <a href="https://shahzaibdev.vercel.app">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-0A66C2?style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/shahzaib-tabassum-70604811b">
+  <a href="https://www.linkedin.com/in/muhammad-shahzaib-here">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:shahzaib.dev001@gmail.com">
