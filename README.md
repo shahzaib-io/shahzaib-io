@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://shahzaibdev.vercel.app">
+  <a href="https://www.mshahzaib.tech">
     <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-0A66C2?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/muhammad-shahzaib-here">
@@ -63,7 +63,7 @@ With 6+ years of experience in **React**, **Next.js**, **Laravel**, **WordPress*
 
 | Project | Description |
 |----------|-------------|
-| 💼 [Ecommerce Website](https://mluva.prototypelink.com) | Custom WordPress Ecommerce with Elementor, Woocommerce and advanced performance optimization. |
+| 💼 [Ecommerce Website](https://nibrasperfumes.com/) | Custom WordPress Ecommerce with Elementor, Woocommerce and advanced performance optimization. |
 
 *(More projects coming soon — stay tuned!)*
 
@@ -88,7 +88,7 @@ With 6+ years of experience in **React**, **Next.js**, **Laravel**, **WordPress*
 
 ### 🤝 Connect  
 
-🌐 [Portfolio](https://shahzaibdev.vercel.app)  
+🌐 [Portfolio](https://www.mshahzaib.tech)  
 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-shahzaib-here)  
 📧 [Email Me](mailto:shahzaib.dev001@gmail.com)
 
